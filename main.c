@@ -4,3 +4,10 @@ feature1()
 {
 //feature1 code added
 }
+
+#feature2 add by dev2
+feature2()
+{
+//feature2 code added
+}
+
